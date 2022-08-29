@@ -1,0 +1,40 @@
+.header-menu  {
+    background-color: #FFFFFF;
+}
+
+.fixed-header .header-menu {
+    background-color: #FFFFFF;
+}
+
+.fixed-sidebar .sidebar-toggle {
+    background-color: #FFFFFF;
+}
+
+.hero-banner {
+    background-color: #6d132d;
+    margin-top: -150px;
+}
+
+.hero-banner:before {
+    display: none;
+}
+
+.hero-banner .hero-content .button-slide {
+    background-color: transparent;
+}
+
+nav.template-main-menu > ul > li > a {
+    color: #212248;
+}
+
+.community-network .community-content .item-title span {
+    color: #6d132d;
+}
+
+.button-slide:after {
+    background-color: #a4133c17;
+}
+
+.hero-banner .hero-content p {
+    width: 50%;
+}
